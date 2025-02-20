@@ -1,0 +1,18 @@
+{
+  "$schema": "../node_modules/@lobehub/chat-plugin-sdk/schema.json",
+  "openapi": "http://localhost:3000/openapi.yaml",
+  "api": [],
+  "author": "LobeHub",
+  "createdAt": "2023-09-03",
+  "homepage": "https://github.com/lobehub/chat-plugin-template",
+  "identifier": "plugin-identifier",
+  "meta": {
+    "avatar": "🚀",
+    "tags": [
+      "template"
+    ],
+    "title": "tavilySearch",
+    "description": "使用 Tavily API 进行智能网络搜索"
+  },
+  "version": "1"
+}

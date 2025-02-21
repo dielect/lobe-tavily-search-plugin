@@ -82,9 +82,7 @@ If you're concerned about API key security with public API endpoints, you can de
 
 - This plugin requires a valid Tavily API key to function
 
+- `Make sure to keep your API key secure and never commit it to version control`
 
-- Make sure to keep your API key secure and never commit it to version control
-
-- For production use, configure your environment variables properly
 
 <p align="center">Made with ❤️ for the LobeChat community</p>

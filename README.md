@@ -57,7 +57,7 @@ If you're concerned about API key security with public API endpoints, you can de
 
 3. For custom gateway configuration, refer to `manifest-dev.json` and update the `gateway` field from `http://localhost:3000` to your domain
 
-### Upcoming Features
+## 🎨 Upcoming Features
 
 1. **Extended Tavily API Parameters Support**
    - Search type customization (web search, news search, etc.)

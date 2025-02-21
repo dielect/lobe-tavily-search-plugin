@@ -46,5 +46,11 @@
         "format": "password"
       }
     }
+  },
+  "ui": {
+    "height": 500,
+    "mode": "iframe",
+    "url": "https://lobe-plugin.composere.com",
+    "width": 800
   }
 }

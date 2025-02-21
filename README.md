@@ -12,9 +12,10 @@
 </h3>
 
 ## 🌟 Why Choose Tavily AI Search Plugin for LobeChat
+- Empowering your AI applications with real-time,accurate search results tailored for LLMs and RAG.
+- Boost your AI with a search engine tailored for LLMs.Delivering fast and accurate results, reducing hallucinations for better decision-making.
 
-- 1,000 free searches per month without credit card requirement
-- Educational accounts can apply for free trial (4,000 credits/month for 4 months)
+`1,000 free searches per month without credit card requirement.`
 
 ## 🚀 Quick Start
 

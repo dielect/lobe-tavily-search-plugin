@@ -47,7 +47,7 @@
 
 ## 🙏 致谢
 
-- LobeChat - 出色的聊天平台
+- LobeChat - 出色的AI对话平台
 - Tavily AI - 提供强大的搜索 API
 
 ## 📝 注意事项

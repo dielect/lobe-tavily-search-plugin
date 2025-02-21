@@ -47,5 +47,11 @@
         "format": "password"
       }
     }
+  },
+  "ui": {
+    "height": 500,
+    "mode": "iframe",
+    "url": "http://localhost:3000",
+    "width": 800
   }
 }

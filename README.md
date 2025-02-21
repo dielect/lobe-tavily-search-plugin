@@ -8,7 +8,7 @@
 
 <h3 align="center">
   A powerful search plugin for LobeChat powered by Tavily AI Search API<br>
-  <img src="./public/example.png" height="400" alt="Lobe Chat Tavily Search Plugin Use example">
+  <img src="./public/example.png" height="128" alt="Lobe Chat Tavily Search Plugin Use example">
 </h3>
 
 

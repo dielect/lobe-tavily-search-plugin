@@ -2,8 +2,8 @@
 
 import { motion } from "framer-motion"
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card"
-import {SearchResult} from "@/app/api/tavily/_types";
-
+import { SearchResult } from "@/app/api/tavily/_types"
+import Image from "next/image"
 
 interface SearchResultsGridProps {
     results: SearchResult[]
@@ -21,9 +21,11 @@ export default function SearchResultsGrid({ results }: SearchResultsGridProps) {
                 >
                     <Card className="h-full overflow-hidden hover:shadow-lg transition-shadow duration-300">
                         <CardHeader className="flex flex-row items-center gap-4 p-4">
-                            <img
+                            <Image
                                 src={result.icon || "/placeholder.svg"}
                                 alt={`${result.title} icon`}
+                                width={24}
+                                height={24}
                                 className="w-6 h-6"
                                 onError={(e) => {
                                     e.currentTarget.src = "/placeholder.svg"

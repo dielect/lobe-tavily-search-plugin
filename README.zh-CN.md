@@ -1,7 +1,7 @@
 # Lobe Chat Tavily Search Plugin
 
 <p align="center">
-  <img src="./public/plugin-logo.png" height="128" alt="Lobe Chat Tavily Search Plugin Logo">
+  <img src="./public/logo.png" height="128" alt="Lobe Chat Tavily Search Plugin Logo">
 </p>
 
 <h3 align="center">

@@ -44,7 +44,9 @@
 
 2. 修改 `manifest.json` 文件中的 `url` 字段中的 `https://lobe-plugin.composere.com` 为你的自部署域名
 
-3. 目前走的是官方网关，如果你想自定义网关，参考 `manifest-dev.json` 配置文件，需要修改 `gateway` 字段中的 `http://localhost:3000` 为你的自部署域名
+3. 修改 `manifest.json` 文件中的 `ui` 字段中的 `https://lobe-plugin.composere.com` 为你的自部署域名
+
+4. 目前走的是官方网关，如果你想自定义网关，参考 `manifest-dev.json` 配置文件，需要修改 `gateway` 字段中的 `http://localhost:3000` 为你的自部署域名
 
 ## 🎨 即将推出的功能
 

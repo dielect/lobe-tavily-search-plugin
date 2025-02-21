@@ -53,10 +53,11 @@ If you're concerned about API key security with public API endpoints, you can de
 
 1. Fork this project and deploy to Vercel with one click
 
-
 2. Modify the `url` field in `manifest.json` from `https://lobe-plugin.composere.com` to your deployed domain
 
-3. For custom gateway configuration, refer to `manifest-dev.json` and update the `gateway` field from `http://localhost:3000` to your domain
+3. Modify the `ui` field in `manifest.json` from `https://lobe-plugin.composere.com` to your deployed domain
+
+4. For custom gateway configuration, refer to `manifest-dev.json` and update the `gateway` field from `http://localhost:3000` to your domain
 
 ## 🎨 Upcoming Features
 

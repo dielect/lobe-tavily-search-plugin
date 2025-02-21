@@ -3,7 +3,7 @@
   "api": [
     {
       "name": "searchWeb",
-      "url": "http://localhost:3000/api/tavily",
+      "url": "https://lobe-plugin.composere.com/api/tavily",
       "description": "Performs advanced web searches using Tavily's search engine API.",
       "parameters": {
         "properties": {
@@ -21,7 +21,6 @@
   ],
   "author": "dielect",
   "createdAt": "2025-02-20",
-  "gateway": "http://localhost:3000/api/gateway",
   "identifier": "tavily-web-search",
   "meta": {
     "avatar": "https://avatars.githubusercontent.com/u/170207473?s=200&v=2",

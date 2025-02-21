@@ -6,6 +6,7 @@
 
 <h3 align="center">
   基于 Tavily AI Search API 的强大 LobeChat 搜索插件
+  <img src="./public/example.png" height="400" alt="Lobe Chat Tavily Search Plugin Use example">
 </h3>
 
 ## 🌟 为什么选择 Tavily

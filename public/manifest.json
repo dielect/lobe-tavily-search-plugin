@@ -23,7 +23,7 @@
   "createdAt": "2025-02-20",
   "identifier": "tavily-web-search",
   "meta": {
-    "avatar": "https://avatars.githubusercontent.com/u/170207473?s=200&v=2",
+    "avatar": "https://raw.githubusercontent.com/dielect/lobe-tavily-search-plugin/refs/heads/main/public/logo.png",
     "tags": [
       "web-search",
       "search-engine"

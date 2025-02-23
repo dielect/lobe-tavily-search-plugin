@@ -16,7 +16,7 @@ export const metadata:Metadata = {
         description: 'Smart web search that reads and analyzes pages to deliver comprehensive answers from Google results.',
         images: [
             {
-                url: 'https://lobe-plugin.composere.com/example.png',
+                url: 'https://lobe-plugin.composere.com/welcome.png',
                 width: 1200,
                 height: 675,
                 alt: 'Tavily Search Plugin Example',
@@ -26,7 +26,7 @@ export const metadata:Metadata = {
     openGraph: {
         images: [
             {
-                url: 'https://lobe-plugin.composere.com/example.png',
+                url: 'https://lobe-plugin.composere.com/welcome.png',
                 width: 1200,
                 height: 675,
                 alt: 'Tavily Search Plugin Example',

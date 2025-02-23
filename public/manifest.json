@@ -50,7 +50,7 @@
   "ui": {
     "height": 500,
     "mode": "iframe",
-    "url": "https://lobe-plugin.composere.com",
+    "url": "https://lobe-plugin.composere.com/search",
     "width": 800
   }
 }

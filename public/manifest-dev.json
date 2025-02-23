@@ -51,7 +51,7 @@
   "ui": {
     "height": 500,
     "mode": "iframe",
-    "url": "http://localhost:3000",
+    "url": "http://localhost:3000/search",
     "width": 800
   }
 }

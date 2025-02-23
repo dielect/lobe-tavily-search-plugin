@@ -10,7 +10,7 @@ export const metadata:Metadata = {
     description: "Smart web search that reads and analyzes pages to deliver comprehensive answers from Google results.",
     twitter: {
         card: 'summary_large_image',
-        site: 'https://lobe-plugin.composere.com/welcome',
+        site: 'https://lobe-plugin.composere.com',
         creator: '@dielectric',
         title: 'Tavily Search Plugin',
         description: 'Smart web search that reads and analyzes pages to deliver comprehensive answers from Google results.',
@@ -36,7 +36,7 @@ export const metadata:Metadata = {
         siteName: 'Tavily Search Plugin',
         title: 'Tavily Search Plugin',
         description: 'Smart web search that reads and analyzes pages to deliver comprehensive answers from Google results.',
-        url: 'https://lobe-plugin.composere.com/welcome',
+        url: 'https://lobe-plugin.composere.com',
     }
 }
 
